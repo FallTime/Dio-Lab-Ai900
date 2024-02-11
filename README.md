@@ -1,1 +1,2 @@
 # Dio-Lab-Ai900
+Seguindo o passo a passo mostrado no vídeo e lendo o [texto de apoio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html). Fiz a criação do modelo utilizando uma base de dados na web, com o objetivo de estimar o valor de aluguéis de bicicletas. A experiência serviu para mostrar uma utilização da plataforma e os niveís de configuração que podem ser necessárias para determinadas tarefas.
